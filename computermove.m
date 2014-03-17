@@ -1,4 +1,4 @@
-function computermove_pt4()
+function computermove()
 %COMPUTERMOVE_PT1 Part 4, implementation of a "minimax w/ alpha-beta w/ depth-limiting AI"
 %   Set the board position for the AI. Ensure use of 2 for move
 
